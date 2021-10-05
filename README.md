@@ -5,10 +5,14 @@ This assignment from University of Minnesota Coding Bootcamp required me to refa
 The starter code had broken links and missing alt image descriptions
 
 I added...
+meta description
+
+I repaired bad img tag
+Fixed poor file structure
+Fixed title
 
 to do
-added meta description
-fix title
+
 add anchor id
 switch div to semantic
 comment and organize css
