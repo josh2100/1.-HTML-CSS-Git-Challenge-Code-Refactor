@@ -6,16 +6,14 @@ The starter code had broken links and missing alt image descriptions
 
 I added...
 meta description
-
+fixed title
 I repaired bad img tag
 Fixed poor file structure
-Fixed title
-
-to do
-
-add anchor id
-switch div to semantic
+Changed divs to nav, main, header, section, and footer
+div to header (semantic)
+anchor id
 comment and organize css
+consolidated redundance css to eliminate many unneccessary lines of code
 
 requirements
 ##################
