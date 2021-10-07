@@ -12,4 +12,4 @@ The CSS file was messy and redundant. I commented and organized it by section, a
 
 ## Screenshot:
 
-![alt text](screenshot.png)
+![alt text](./assets/images/screenshot.png)
