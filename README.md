@@ -9,11 +9,11 @@ meta description
 fixed title
 I repaired bad img tag
 Fixed poor file structure
-Changed divs to nav, main, header, section, and footer
+Changed divs to nav, main, header, section, aside, and footer
 div to header (semantic)
 anchor id
 comment and organize css
-consolidated redundance css to eliminate many unneccessary lines of code
+consolidated redundant css to eliminate many unneccessary lines of code
 
 requirements
 ##################
@@ -43,9 +43,9 @@ This layout is designed for "desktop", so you may notice that some of the elemen
 
 Follow these steps to complete the challenge:
 
-Clone your starter code (Links to an external site.).
+//Clone your starter code (Links to an external site.).
 
-Refactor the code to meet the Acceptance Criteria.
+//Refactor the code to meet the Acceptance Criteria.
 
 Make sure your work meets the full list of grading requirements.
 
@@ -75,7 +75,7 @@ GitHub repository that contains application code.
 Application Quality: 15%
 Application resembles (at least 90%) screenshots provided in challenge instructions.
 Repository Quality: 13%
-//Repository has a unique name. 
+//Repository has a unique name.
 
 Repository follows best practices for file structure and naming conventions.
 
@@ -96,5 +96,3 @@ NOTE
 You are allowed to miss up to two Challenge assignments and still earn your certificate. If you complete all Challenge assignments, your lowest two grades will be dropped. If you wish to skip this assignment, click Submit and then indicate that you’re skipping by typing “I choose to skip this assignment” in the text box.
 
 Comments are disabled for graded submissions in BootCamp Spot. If you have questions about your feedback, please notify your instructional staff or the Student Success Manager. If you would like to resubmit your work for an improved grade, you can use the Resubmit Assignment button to upload new links. You may resubmit up to three times for a total of four submissions.
-
-
